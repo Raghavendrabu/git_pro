@@ -1,3 +1,2 @@
 this is for remote repo
-ergv
-d
+remote
